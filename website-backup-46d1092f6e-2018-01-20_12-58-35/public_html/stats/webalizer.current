@@ -1,0 +1,622 @@
+# Webalizer V2.21-02 Incremental Data - 01/12/2017 16:27:20
+2017 1 12 16 27 20
+904 750 94 54 11 33 396522826 41 40 0
+10 2 62 1 12
+20 15 5470703 6 3 3
+62 51 27524728 8 2 2
+2 0 285 1 0 0
+153 125 67999127 19 4 4
+107 80 43831469 13 6 6
+174 161 85286505 12 9 9
+170 153 80779082 14 8 7
+110 103 56618810 8 2 2
+17 4 555700 9 3 3
+2 0 586 1 1 1
+68 55 28431373 12 1 1
+19 3 24458 10 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 2 531621 1
+10 1 505601 0
+9 1 4474 0
+5 0 570 0
+9 1 10556 2
+12 1 11130 1
+4 0 570 0
+8 1 10850 1
+96 76 43792653 1
+5 1 9990 1
+12 1 527175 1
+17 11 3206949 1
+57 52 27596073 2
+6 1 9990 2
+3 1 504746 0
+143 141 78671905 6
+123 115 56120892 6
+53 51 27007262 2
+60 53 29620653 2
+75 73 41371387 2
+7 3 544859 2
+117 113 59446407 5
+10 1 11449 1
+55 50 27005064 2
+0
+0
+0
+750
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+62
+0
+0
+0
+0
+0
+0
+80
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/photos/productTitle.png
+1 14 0 179592 0 0
+/photos/fashion1.jpg
+1 16 0 4370086 0 0
+/
+0 39 0 310860 38 4
+/images/facebook.png
+1 16 0 49152 0 0
+/photos/fashion10.jpg
+1 16 0 6808704 0 0
+/photos/DSC_4656 1.jpg
+1 16 0 11921714 0 0
+/photos/L7D_4566.jpg
+1 1 0 588245 0 0
+/images/instagram.png
+1 16 0 53648 0 0
+/photos/fashionTitle.png
+1 14 0 169134 0 0
+/photos/CF034612.jpg
+1 14 0 15896552 0 0
+/photos/IMG_2280.jpg
+1 16 0 11178482 0 0
+/images/twitter.png
+1 16 0 52912 0 0
+/photos/IMG_2133.jpg
+1 17 0 10844666 0 0
+/photos/product4.jpg
+1 16 0 3500602 0 0
+/photos/beautyTitle.png
+1 16 0 192528 0 0
+/photos/portrait4.jpg
+1 15 0 5203128 0 0
+/photos/product3.jpg
+1 14 0 3435180 0 0
+/photos/160204_AlexsilverPr_7792.jpg
+1 18 0 21031057 0 0
+/photos/IMG_0420.jpg
+1 18 0 24921785 0 0
+/photos/solsticecover.jpg
+1 20 0 9080298 0 0
+/photos/CF034519.jpg
+1 15 0 8998136 0 0
+/photos/product2.jpg
+1 14 0 2534574 0 0
+/photos/product1.jpg
+1 14 0 1994552 0 0
+/photos/DSC_4266V1.jpg
+1 18 0 12742349 0 0
+/images/menuButton.png
+1 16 0 46336 0 0
+/jquery.min.js
+0 14 0 1360520 0 0
+/photos/160204_AlexsilverPr_7923.jpg
+1 16 0 22266300 0 0
+/photos/Flaviana00778-1.jpg
+1 18 0 23214928 0 0
+/photos/fashion9.jpg
+1 14 0 5889912 0 0
+/photos/fashion8.jpg
+1 15 0 6873622 0 0
+/images/contact.png
+1 16 0 60624 0 0
+/photos/DSC_5475.jpg
+1 21 0 15076550 0 0
+/photos/Flaviana00980 1.jpg
+1 17 0 21082275 0 0
+/images/logo.png
+1 24 0 100719 0 0
+/photos/IMG_2111-Edit.jpg
+1 15 0 11326910 0 0
+/images/favicon.ico
+0 13 0 36636 0 0
+/photos/DSC_9871-3.jpg
+1 15 0 6630190 0 0
+/photos/fashion7.jpg
+1 14 0 5393738 0 0
+/photos/DSC_4947.jpg
+1 15 0 12152154 0 0
+/photos/beauty10.jpg
+1 19 0 9322114 0 0
+/photos/portraitTitle.png
+1 14 0 143276 0 0
+/fonts/CenturyGothicReg.ttf
+0 14 0 1925952 0 0
+/photos/CF034305.jpg
+1 1 0 0 0 0
+/photos/fashion5.jpg
+1 15 0 3385998 0 0
+/photos/beauty3.jpg
+1 2 0 0 0 0
+/photos/CF034461.jpg
+1 15 0 12978350 0 0
+/photos/fashion4.jpg
+1 13 0 3382561 0 0
+/photos/_03A5957.jpg
+1 17 0 25836960 0 0
+/photos/DSC_5137.jpg
+1 18 0 11826297 0 0
+/photos/CF034419.jpg
+1 15 0 16139508 0 0
+/photos/beauty1.jpg
+1 2 0 0 0 0
+/photos/fashion2.jpg
+1 14 379965110529 2952824 0 0
+/photos/DSC_4553 2.jpg
+1 17 7960503966028476718 12591435 0 0
+/photos/CF034357.jpg
+1 16 7171939 8445332 0 0
+# End Of Table - urls
+# -sites- (monthly)
+fulltextrobot-77-75-76-171.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-76-163.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-79-72.seznam.cz
+0 2 0 285 0 0
+-
+msnbot-157-55-39-254.search.msn.com
+0 2 0 591 0 0
+-
+fulltextrobot-77-75-76-166.seznam.cz
+0 4 0 570 0 0
+-
+92.40.248.54.threembb.co.uk
+0 50 50 27003924 2 1483782422
+/
+spider-141-8-184-22.yandex.com
+0 1 0 281 0 0
+-
+spider-130-193-51-42.yandex.com
+0 1 0 285 0 0
+-
+fulltextrobot-77-75-76-169.seznam.cz
+0 4 0 570 0 0
+-
+google-proxy-64-233-173-128.google.com
+0 3 2 1748250 0 0
+-
+google-proxy-66-249-83-75.google.com
+0 1 1 9420 1 1484238440
+/
+173.252.90.228
+0 1 0 0 1 1483651450
+/
+173.252.90.231
+0 1 0 0 1 1483675448
+/
+173.252.90.239
+0 1 0 0 1 1483736454
+/
+173.252.90.240
+0 1 0 294 0 0
+-
+173.252.90.242
+0 2 0 0 2 1483719591
+/
+173.252.90.243
+0 1 0 0 1 1483728702
+/
+fulltextrobot-77-75-79-101.seznam.cz
+0 2 0 285 0 0
+-
+199.16.157.183
+0 2 1 9705 1 1483657751
+/
+190.181.75.225.nortech.com.ar
+0 13 13 5451008 1 1483305770
+/
+fulltextrobot-77-75-78-170.seznam.cz
+0 4 0 570 0 0
+-
+173.252.74.119
+0 1 1 504461 0 0
+-
+202.46.48.197
+0 1 1 9420 1 1483288163
+/
+173.252.74.120
+0 1 1 504461 0 0
+-
+fulltextrobot-77-75-78-162.seznam.cz
+0 4 1 525734 0 0
+-
+fulltextrobot-77-75-77-11.seznam.cz
+0 2 0 285 0 0
+-
+google-proxy-66-102-8-142.google.com
+0 1 1 5301 0 0
+-
+baiduspider-180-76-15-141.crawl.baidu.com
+0 1 0 285 0 0
+-
+bas2-montreal28-70-53-241-210.dsl.bell.ca
+0 50 49 26994504 1 1483806544
+/
+fulltextrobot-77-75-78-165.seznam.cz
+0 2 0 285 0 0
+-
+31.13.113.179
+0 1 0 294 0 0
+-
+static-12-60-26-46.ipcom.comunitel.net
+0 110 110 57253031 2 1483559040
+/
+134-249-65-15.broadband.kyivstar.net
+0 50 50 26997557 1 1483910753
+/
+fulltextrobot-77-75-77-36.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-77-17.seznam.cz
+0 2 0 285 0 0
+-
+baiduspider-180-76-15-16.crawl.baidu.com
+0 1 0 285 0 0
+-
+47.8.45.110
+0 49 49 26737360 1 1483803279
+/
+fulltextrobot-77-75-76-161.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-79-32.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-77-109.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-76-172.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-79-62.seznam.cz
+0 2 0 285 0 0
+-
+spider-130-193-50-15.yandex.com
+0 1 1 9420 1 1483590815
+/
+fulltextrobot-77-75-79-54.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-79-95.seznam.cz
+0 4 0 570 0 0
+-
+202.46.54.116
+0 1 1 9420 1 1483970271
+/
+google-proxy-66-249-83-74.google.com
+0 1 1 3053 0 0
+-
+crawl-54-236-1-11.pinterest.com
+0 2 2 513881 1 1483631955
+/
+crawl-66-249-76-13.googlebot.com
+0 1 0 301 1 1483315238
+-
+ip-216-69-191-98.ip.secureserver.net
+0 2 1 9701 1 1483792446
+/
+spider-130-193-51-7.yandex.com
+0 1 0 281 0 0
+-
+spider-5-255-253-30.yandex.com
+0 1 0 281 0 0
+-
+fulltextrobot-77-75-78-160.seznam.cz
+0 2 0 285 0 0
+-
+crawl-66-249-66-36.googlebot.com
+0 1 0 285 0 0
+-
+14.142.64.3.static-mumbai.vsnl.net.in
+0 2 2 18840 1 1483803289
+/
+fulltextrobot-77-75-78-171.seznam.cz
+0 2 0 285 0 0
+-
+spider-141-8-132-76.yandex.com
+0 1 1 3053 0 0
+-
+crawl-66-249-66-206.googlebot.com
+0 2 0 587 0 0
+-
+fulltextrobot-77-75-78-163.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-77-101.seznam.cz
+0 2 0 285 0 0
+-
+baiduspider-180-76-15-8.crawl.baidu.com
+0 1 0 285 0 0
+-
+net-5-94-240-46.cust.vodafonedsl.it
+0 99 99 53992061 2 1483717791
+/
+fulltextrobot-77-75-78-166.seznam.cz
+0 2 0 285 0 0
+-
+104.131.75.115
+0 3 1 9986 1 1483947347
+/
+fulltextrobot-77-75-78-169.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-76-162.seznam.cz
+0 4 2 1050898 0 0
+-
+mtrlpq0313w-lp130-04-76-66-189-162.dsl.bell.ca
+0 2 2 10602 0 0
+-
+202.46.50.125
+0 1 1 9420 1 1484002269
+/
+202.46.55.87
+0 1 1 9420 1 1483290163
+/
+202.46.57.39
+0 1 1 9420 1 1483632068
+/
+apn-95-40-98-74.dynamic.gprs.plus.pl
+0 1 1 588245 0 0
+-
+fulltextrobot-77-75-76-168.seznam.cz
+0 2 0 285 0 0
+-
+static-36.59.96.14-tataidc.co.in
+0 50 50 26997557 1 1483792520
+/
+google-proxy-66-249-84-194.google.com
+0 1 1 873982 0 0
+-
+24.114.92.185
+0 2 0 0 0 0
+-
+109.166.137.51
+0 50 50 26997557 1 1483549238
+/
+fulltextrobot-77-75-79-109.seznam.cz
+0 4 0 570 0 0
+-
+dyn-41-152.kbcnet.rs
+0 50 50 26997557 1 1483737608
+/
+fulltextrobot-77-75-78-172.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-78-164.seznam.cz
+0 2 0 285 0 0
+-
+69.58.178.56
+0 2 1 9705 1 1483819372
+/
+69.58.178.58
+0 2 1 9705 1 1484197564
+/
+host81-147-152-102.range81-147.btcentralplus.com
+0 50 50 26997557 1 1483383339
+/
+fulltextrobot-77-75-77-62.seznam.cz
+0 6 0 855 0 0
+-
+host-50.213.199.82.ucom.am
+0 50 50 26997557 1 1483862929
+/
+202.46.50.78
+0 1 1 9420 1 1483560172
+/
+fulltextrobot-77-75-78-167.seznam.cz
+0 12 0 1710 0 0
+-
+fulltextrobot-77-75-77-54.seznam.cz
+0 2 0 285 0 0
+-
+crawl-66-249-66-176.googlebot.com
+0 2 0 586 1 1484042739
+-
+r75-110-2-116.gvllcmtc01.gnvlnc.ab.dh.suddenlink.net
+0 49 49 26900377 1 1484162733
+/
+105.158.24.41
+0 11 11 3206094 1 1483703464
+/
+fulltextrobot-77-75-76-160.seznam.cz
+0 4 0 570 0 0
+-
+fulltextrobot-77-75-77-95.seznam.cz
+0 2 0 285 0 0
+-
+69.171.230.99
+0 1 1 504461 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider-130-193-51-42.yandex.com
+0 1 0 285 0 0
+-
+google-proxy-66-249-83-75.google.com
+0 1 1 9420 1 1484238440
+/
+fulltextrobot-77-75-77-11.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-76-161.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-77-109.seznam.cz
+0 4 0 570 0 0
+-
+google-proxy-66-249-83-74.google.com
+0 1 1 3053 0 0
+-
+fulltextrobot-77-75-76-168.seznam.cz
+0 2 0 285 0 0
+-
+69.58.178.58
+0 2 1 9705 1 1484197564
+/
+fulltextrobot-77-75-77-62.seznam.cz
+0 2 0 285 0 0
+-
+fulltextrobot-77-75-78-167.seznam.cz
+0 2 0 285 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 181
+http://m.facebook.com
+0 1
+https://www.facebook.com/
+0 2
+http://www.bing.com/search
+0 1
+http://poste1.ca/
+0 145
+https://it.pinterest.com/
+0 2
+http://webmail.ecohosting.co.uk/webmail-new/index.php
+0 2
+https://www.google.co.th/
+0 1
+http://www.modelmayhem.com/forums/post/959075/2
+0 1
+http://www.poste1.ca/
+0 566
+http://www.poste1.ca/photos/DSC_5475.jpg
+0 2
+# End Of Table - referrers
+# -agents- 
+Pinterest/0.2 (+http://www.pinterest.com/)
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 6
+Mozilla
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 6
+['Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36 GD
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+0 110
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+0 50
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0.2 Safari/602.3.12
+0 50
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Saf
+0 50
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/55.0.2883.79 Mobile/14C
+0 50
+Mozilla/5.0 (Windows NT 5.1; rv:50.0) Gecko/20100101 Firefox/50.0
+0 50
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 11
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 4
+Mozilla/5.0 (Linux; Android 6.0; ROBBY Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 50
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+0 50
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 2
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 112
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 49
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 [FBAN/FBIOS;FBAV
+0 13
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92
+0 2
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 1.1.4322)
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 50
+Twitterbot/1.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 99
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36 GD
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 50
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

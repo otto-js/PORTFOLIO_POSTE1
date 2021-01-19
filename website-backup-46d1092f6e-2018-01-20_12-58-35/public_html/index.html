@@ -1,0 +1,364 @@
+	<!doctype html>
+	<html>
+	<head>
+		<title>POSTE1</title>
+	
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-type" content="tesxt/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script type="text/javascript" src="jquery.min.js"></script >
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+		
+<link rel='shortcut icon' href='./images/favicon.ico' type='image/x-icon'/ > 
+
+ 
+	
+									<style type="text/css">
+@font-face {
+	font-family: myFont;
+	src:url('./fonts/CenturyGothicReg.ttf');
+	
+}
+
+
+body {
+	margin:0;
+	padding: 0;
+	font-family: myFont;
+	background-color: #f2f2f2;
+}
+
+
+ul {
+	list-style: none;
+	margin: 0;
+}
+
+a, #contactLink {
+	text-decoration: none;
+	color: #145059;
+}
+
+
+
+#logo {
+	position: fixed;
+	z-index: 1;
+	top: -20px;
+	left: -30px;
+	opacity: 0.9;
+  
+}
+
+#menuBox {
+	background-color: #e6e6e6;
+	border: 1px solid #e6e6e6;
+	width: 160px;
+	height: 200px;
+	left: -10px;
+	position: fixed;
+	top: 38.1%;
+	border-radius: 10px;
+	opacity: 0.3;
+}
+
+#menuBox2 {
+	border: 1px solid #e6e6e6;
+	width: 170px;
+	height: 210px;
+	left: -14px;
+	position: fixed;
+	top: 37.6%;
+	border-radius: 10px;
+	opacity: 0.4;
+}
+
+#navigationLinks {
+  	position: fixed;
+  	top: 38%;
+  	margin-left:-30px;
+	letter-spacing: 4px;
+}
+
+
+li {
+	transition: 0.9s;
+	padding: 15px; 
+	font-size: 1em;
+
+}
+
+li:hover {
+	text-shadow: 0 0 15px cyan; 
+}
+
+#socialMedia {
+	position: fixed;
+	left: 75px;
+	bottom: 0px;
+}
+
+
+.photoContainer {
+	height: 100vh;
+	white-space: nowrap;
+	overflow-x: scroll;
+}
+
+.row1, .row2, .row3, .row4 {
+	height: 100vh;
+	padding:5px;
+}
+
+#iconsHideButton {
+	position: fixed; 
+	left: 15px; 
+	bottom: 8px;
+	z-index: 1;
+}
+
+.title {
+	opacity: 0.2;
+}
+
+#contactBackground {
+	background-color: white;
+	opacity: 0.9;
+	position: fixed;	
+	width: 100%;
+	height:300px; 
+	top: 35%;
+}
+
+#decoContact {
+	background-color: #21dbf6;
+	width: 100%;
+	height: 5px;
+	position: absolute;
+	top: 50%;
+}
+
+#otto {
+	position: fixed;
+	font-size: 2.5em;
+	font-weight: bold;
+	top: 40%;
+	left: 50px;
+	color: #757575;
+}
+
+#email {
+	position: fixed;
+	font-size: 2em;
+	top: 49.8%;
+	left: 100px;
+	color: #757575;
+}
+
+#contactBackground, #email {
+	display: none;
+}
+
+#fixZindex { 
+	position:fixed; 
+	z-index: 3;
+}
+
+#fixZindex2 {
+	position:fixed;
+	z-index: -3;
+}
+
+.active {
+    color: #fff;
+    text-shadow: 0 0 15px cyan; 
+}
+
+
+						</style>
+	
+	
+	
+	</head>
+
+	<body >
+	
+	<div id="containerGeneral">
+	
+
+		<div id="fixZindex">
+			<div id="logo">
+				<img src="./images/logo.png" alt:"logo">
+			</div>
+			
+		
+			<div id="menuBox"></div>
+			<div id="menuBox2"></div>
+				<nav id="navigationLinks">
+					<ul>
+						<li><a class="active" id="beautyLink" href="#beautySection">BEAUTY</a></li>
+						<li><a href="#portraitSection">PORTRAIT</a></li>
+						<li><a href="#fashionSection">FASHION</a></li>
+						<li><a href="#productSection">PRODUCT</a></li>
+					</ul>
+				</nav>	
+		
+			<img id="iconsHideButton" src="./images/menuButton.png" alt="menuButton" title="TOGGLE DISPLAY MENU">
+			<div id="socialMedia">
+				<a href="https://www.instagram.com/poste1.ca" target="_blank"><img src="./images/instagram.png" alt:"instagram logo" title="OTTO'S INSTAGRAM"></a>
+				<a href="https://www.facebook.com/OTTO-Poste1-168695653243981/" target="_blank"><img src="./images/facebook.png" alt:"facebook logo"></a>
+				<a href="https://twitter.com/otto_poste1" target="_blank"><img src="./images/twitter.png" alt:"twitter logo"></a>
+				<img src="./images/contact.png" id="contactLink" alt:"email logo" title="CONTACT OTTO">
+			</div>
+			
+			<div id="contactBackground">
+			<div id="decoContact"></div>
+			<p id="otto">OTTO :</div>
+			<p id="email">otto@poste1.ca</p>
+			</div>
+		</div>
+
+		
+		<div class="fixZindex2">
+			<section class="photoContainer" id="beautySection">
+				<img class="row1 title" src="./photos/beautyTitle.png" alt="beautyimage" height="960">
+				
+                <img class="row1" src="./photos/jonasjensen_BeautyMariaPalm1.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/jonasjensen_BeautyMariaPalm2.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/jonasjensen_BeautyMariaPalm3.jpg" alt="jeremy otto" height="930">
+                <img class="row1" src="./photos/IMG_2319.jpg" alt="jeremy otto" height="930">
+                <img class="row1" src="./photos/IMG_2423.jpg" alt="jeremy otto" height="930">
+                <!--img class="row1" src="./photos/IMG_2449.jpg" alt="jeremy otto" height="930"-->
+                <!--<img class="row1" src="./photos/Flaviana00980-1.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/Flaviana2.jpg" alt="jeremy otto" height="930">-->
+				<img class="row1" src="./photos/DSC_4553 2.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/DSC_4656 1.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/DSC_4947.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/DSC_5475.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/DSC_5137.jpg" alt="jeremy otto" height="930">
+				<img class="row1" src="./photos/DSC_4266.jpg" alt="jeremy otto" height="930">	
+				<!--img class="row1" src="./photos/IMG_0420.jpg" alt="jeremy otto" height="930"-->		
+			</section>			
+		
+			<section class="photoContainer" id="portraitSection">
+				<img class="row3 title" src="./photos/portraitTitle.png" alt="jeremy otto" height="930">
+                   
+                <img class="row1" src="./photos/_03A5957.jpg" alt="jeremy otto" height="930">
+                <img class="row1" src="./photos/KatherynWinnick_for_MagdalenaNiziol.jpg" alt="jeremy otto" height="930"> 
+				<img class="row3" src="./photos/160204_AlexsilverPr_7923.jpg" alt="jeremy otto" height="930">
+                <img class="row3"src="./photos/DSC_9871 3.jpg" alt="jeremy otto" height="930">	
+				<img class="row3"src="./photos/_MG_2395.jpg" alt="jeremy otto" height="930">
+			</section>	
+			
+			<section class="photoContainer" id="fashionSection">
+				<img class="row2 title" src="./photos/fashionTitle.png" alt="jeremy otto" height="930">
+                
+                <img class="row2" src="./photos/jonasjensenBeauty11April20162076.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/jonasjenseBeauty11April20162173.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/jonasjensenBeauty11April20162210.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/jonasjensenBeauty11April20162026.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/jonasjensenBeauty11April20161988.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/fashion7.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion8.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion9.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion10.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/_MG_1359.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/_MG_1623.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/_MG_2336.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/_MG_2638.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/solsticecover.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/CF034357.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/CF034419.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/CF034461.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/CF034519.jpg" alt="jeremy otto" height="930">
+                <img class="row2" src="./photos/CF034612.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/IMG_2111-Edit.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/IMG_2133.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/IMG_2280.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion1.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion2.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion5.jpg" alt="jeremy otto" height="930">
+				<img class="row2" src="./photos/fashion4.jpg" alt="jeremy otto" height="930">	
+				
+			</section>
+		
+			<section class="photoContainer" id="productSection">
+				<img class="row4 title" src="./photos/productTitle.png" alt="jeremy otto" height="930">
+                  
+				<img class="row4" src="./photos/product1.jpg" alt="jeremy otto" height="930">
+				<img class="row4" src="./photos/product2.jpg" alt="jeremy otto" height="930">
+				<img class="row4" src="./photos/product3.jpg" alt="jeremy otto" height="930">
+				<img class="row4" src="./photos/product4.jpg" alt="jeremy otto" height="960">
+			</section>					
+		</div>	
+		
+		
+	
+		
+		
+	</div>
+							<script type="text/javascript">
+							
+		
+    	
+		
+		
+		$("#iconsHideButton").click(function () {
+    		$('#navigationLinks, #menuBox, #menuBox2, #logo').fadeToggle(500);
+    		$(" #socialMedia").slideToggle(700);
+		});
+		
+		$("#contactLink").click (function() {
+			$("#contactBackground, #email").show(1000);
+		});
+		
+		$("#contactBackground").click (function () {
+			$("#contactBackground, #email").hide(600)
+		});
+		
+    	
+$(document).ready(function () {
+    $(document).on("scroll", onScroll);
+    
+    //smoothscroll
+    $('a[href^="#"]').on('click', function (e) {
+        e.preventDefault();
+        $(document).off("scroll");
+        
+        $('a').each(function () {
+            $(this).removeClass('active');
+        })
+        $(this).addClass('active');
+      
+        var target = this.hash,
+            menu = target;
+        $target = $(target);
+        $('html, body').stop().animate({
+            'scrollTop': $target.offset().top+2
+        }, 500, 'swing', function () {
+            window.location.hash = target;
+            $(document).on("scroll", onScroll);
+        });
+    });
+});
+
+function onScroll(event){
+    var scrollPos = $(document).scrollTop();
+    $('#navigationLinks a').each(function () {
+        var currLink = $(this);
+        var refElement = $(currLink.attr("href"));
+        if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+            $('#menu-center ul li a').removeClass("active");
+            currLink.addClass("active");
+        }
+        else{
+            currLink.removeClass("active");
+        }
+    });
+}
+							</script>
+
+		
+
+	</body>
+	</html>

@@ -1,0 +1,5 @@
+
+#+PHPVersion
+#="php56"
+AddHandler x-httpd-php56 .php
+#-PHPVersion
